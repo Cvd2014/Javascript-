@@ -1,5 +1,4 @@
 function getRGB(hexcolor){
-	
 	var split=""
 	var sudo=""
 	var rgb=""

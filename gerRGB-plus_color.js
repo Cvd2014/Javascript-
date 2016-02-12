@@ -1,11 +1,5 @@
 
-function Colour(hexcode, colour){
-	this.hexcode=hexcode;
-	this.colour=colour 
-	this.details=function(){
-		return this.hexcode +" "+ this.colour
-	}
-}
+
 
 Color1=new Colour('#FFFFF2', "Pearly Gates")
 
